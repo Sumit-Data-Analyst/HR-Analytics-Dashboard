@@ -6,7 +6,7 @@ A Power BI dashboard to analyze workforce demographics, attrition rates, salary 
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](https://github.com/Sumit-Data-Analyst/HR-Analytics-Dashboard/blob/main/hr.PNG?raw=true)
+![HR Analytics Dashboard](https://github.com/Sumit-Data-Analyst/HR-Analytics-Dashboard/blob/main/Overview.PNG)
 
 ---
 
