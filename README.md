@@ -50,18 +50,32 @@ To provide a visual summary of employee data including:
 
 --
 
-## 📂 Project Structure
+## 🚀 Features
 
-📁 HR-Analytics-Dashboard
-📊 HRDashboard.pbix
-📁 data # Source and processed data
-📁 images # Screenshots of the dashboard
-📄 README.md
-📄 LICENSE
+- Dynamic filtering by **Year**
+- Segmentation of employees by:
+  - Department
+  - Gender
+  - Age Band
+  - Race
+  - Marital Status
+  - Citizenship
+- Attrition and salary insights over time
+- Easy-to-use sidebar navigation for switching between views
+
+---
+
+## 🔮 Possible Enhancements
+
+- Include department-wise attrition rate analysis  
+- Integrate performance or satisfaction scores (if available)  
+- Add drill-downs to view employee-level details  
+- Embed the report into a web portal for real-time HR insights  
 
 ---
 
 ## 👤 Author
 
-Sumit Kumar
-📧 sumitkumar02269@gmail.com
+**Sumit Kumar**  
+📧 [sumitkumar02269@gmail.com](mailto:sumitkumar02269@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumit-kumar-24b264330) 
