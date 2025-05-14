@@ -65,6 +65,17 @@ To provide a visual summary of employee data including:
 
 ---
 
+## 📂 Project Structure
+
+-📁 HR-Analytics-Dashboard
+-📊 HRDashboard.pbix
+-📁 data # Source and processed data
+-📁 images # Screenshots of the dashboard
+-📄 README.md
+-📄 LICENSE
+
+---
+
 ## 🔮 Possible Enhancements
 
 - Include department-wise attrition rate analysis  
